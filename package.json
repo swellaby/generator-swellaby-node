@@ -86,7 +86,7 @@
     "@swellaby/nyc-config": "^3.0.0",
     "@swellaby/tslint-config": "^3.0.0",
     "@types/chai": "^4.1.7",
-    "@types/inquirer": "^6.0.0",
+    "@types/inquirer": "^7.0.0",
     "@types/mkdirp": "^1.0.0",
     "@types/mocha": "^7.0.0",
     "@types/node": "^14.0.0",
